@@ -1,11 +1,9 @@
 <h2> Hi, I'm Josimar Leon! 👋<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Villareal</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Lead Quality Software at <a href="https://pe.nttdata.com/">NTTData</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: JosimarLeon](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: JosimarLeon](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub josimarcode](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/josimarcode)
+[![Linkedin: JosimarLeon](https://img.shields.io/badge/-josimarleon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josimar-leon-canto-01a47b7b/)](https://www.linkedin.com/in/josimar-leon-canto-01a47b7b/)
+[![GitHub josimarcode](https://img.shields.io/github/followers/josimarcode?label=follow&style=social)](https://github.com/josimarcode)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -29,9 +27,9 @@ const josimar = {
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
-  <a href="https://github.com/JoykishanSharma?tab=repositories">
+  <a href="https://github.com/josimarcode?tab=repositories">
     <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true&theme=algolia&count_private=true" />
+         src="https://github-readme-stats.vercel.app/api?username=josimarcode&show_icons=true&theme=algolia&count_public=true" />
    <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
