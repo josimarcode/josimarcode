@@ -11,13 +11,13 @@
 ```javascript
 const josimar = {
   code: [Javascript, Typescript, Java],
-  tools: [React, Node, Jest, Docker, Postman, SoapUI, AS400],
-  qa: [Jira, Xray, TestRail, Zephir, SpiraTest ],
-  automation: [Selenium, Serenity, Karate DSL, RestAssured, Webdriver.io, Cypress.io, Appium],
+  tools: [React, Node.js, Jest, Postman, SoapUI, AS400],
+  qa: [Jira, Xray, TestRail,QMetry, Zephir, SpiraTest ],
+  automation: [Selenium, Serenity BDD, Karate DSL, RestAssured, Webdriver.io, Cypress.io, Appium],
   db: [sql],
-  devops: [Jenkins, Artifactory, GitLab CI, GitHub Actions],
-  architecture: ["microservices", "page object model(POM)", "screenplay"],
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  devops: [Jenkins, Artifactory, GitLab CI, GitHub Actions, Docker],
+  architecture: ["microservices", "page object model(POM)", "screenplay","page factory", "Fluent POM", "Singletton"]
+ 
 }
 ```
 
