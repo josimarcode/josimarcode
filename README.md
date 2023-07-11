@@ -11,7 +11,7 @@
 ```javascript
 const josimar = {
   code: [Javascript, Typescript, Java],
-  tools: [React, Node.js, Jest, Postman, SoapUI, AS400, Grafana, appscript, google data studio],
+  tools: [React, Node.js, Jest, Postman, SoapUI, AS400, Grafana, AppScript, Google Data Studio],
   qa: [Jira, Xray, TestRail,QMetry, Zephir, SpiraTest ],
   automation: [Selenium, Serenity BDD, Karate DSL, RestAssured, Webdriver.io, Cypress.io, Appium],
   db: [sql],
